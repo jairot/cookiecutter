@@ -1,29 +1,22 @@
 =============
-Cookiecutter
+Cookiecutter2
 =============
 
-.. image:: https://badge.fury.io/py/cookiecutter.png
-    :target: http://badge.fury.io/py/cookiecutter
+.. image:: https://travis-ci.org/jairot/cookiecutter2.png?branch=master
+        :target: https://travis-ci.org/jairot/cookiecutter2
 
-.. image:: https://travis-ci.org/audreyr/cookiecutter.png?branch=master
-        :target: https://travis-ci.org/audreyr/cookiecutter
+**Attention**  
+This is a fork of the great `cookiecutter`_ package. It's still under development and is gonna be ready soon.
 
-.. image:: https://pypip.in/d/cookiecutter/badge.png
-        :target: https://crate.io/packages/cookiecutter?version=latest
-
-.. image:: https://coveralls.io/repos/audreyr/cookiecutter/badge.png?branch=master
-        :target: https://coveralls.io/r/audreyr/cookiecutter?branch=master
-
+.. _`cookiecutter`: https://github.com/audreyr/cookiecutter
 
 A command-line utility that creates projects from **cookiecutters** (project
 templates), e.g. creating a Python package project from a Python package project template.
 
-* Documentation: http://cookiecutter.rtfd.org
-* GitHub: https://github.com/audreyr/cookiecutter
+* Documentation: http://cookiecutter2.rtfd.org
+* GitHub: https://github.com/jairot/cookiecutter2
 * Free software: BSD license
-* PyPI: https://pypi.python.org/pypi/cookiecutter
-
-.. image:: https://raw.github.com/audreyr/cookiecutter/aa309b73bdc974788ba265d843a65bb94c2e608e/cookiecutter_medium.png
+* PyPI: https://pypi.python.org/pypi/cookiecutter2
 
 Features
 --------
@@ -137,7 +130,6 @@ Python
 * `cookiecutter-pypackage`_: `@audreyr`_'s ultimate Python package project
   template.
 * `cookiecutter-flask`_ : A Flask template with Bootstrap 3, starter templates, and working user registration.
-* `cookiecutter-flask-env`_: A lucuma-flavored flask app template.
 * `cookiecutter-simple-django`_: A cookiecutter template for creating reusable Django projects quickly.
 * `cookiecutter-django`_: A bleeding edge Django project template with Bootstrap 3, customizable users app, starter templates, and working user registration.
 * `cookiecutter-djangopackage`_: A template designed to create reusable third-party PyPI friendly Django apps. Documentation is written in tutorial format.
@@ -147,6 +139,7 @@ Python
 * `cookiecutter-django-crud`_: A template to create a Django app with boilerplate CRUD around a model including a factory and tests.
 * `cookiecutter-quokka-module`_: A template to create a blueprint module for Quokka Flask CMS.
 * `cookiecutter-django-lborgav`_: Another cookiecutter template for Django project with Booststrap 3 and FontAwesome 4.
+* `cookiecutter-pypackage-minimal`_: A mimimal Python package template.
 
 C
 ~~
@@ -190,7 +183,6 @@ HTML
 .. _`@audreyr`: https://github.com/audreyr/
 .. _`cookiecutter-jquery`: https://github.com/audreyr/cookiecutter-jquery
 .. _`cookiecutter-flask`: https://github.com/sloria/cookiecutter-flask
-.. _`cookiecutter-flask-env`: https://github.com/lucuma/cookiecutter-flask-env
 .. _`cookiecutter-simple-django`: https://github.com/marcofucci/cookiecutter-simple-django
 .. _`cookiecutter-django`: https://github.com/pydanny/cookiecutter-django
 .. _`cookiecutter-djangopackage`: https://github.com/pydanny/cookiecutter-djangopackage
@@ -198,6 +190,7 @@ HTML
 .. _`cookiecutter-django-crud`: https://github.com/wildfish/cookiecutter-django-crud
 .. _`cookiecutter-quokka-module`: https://github.com/pythonhub/cookiecutter-quokka-module
 .. _`cookiecutter-django-lborgav`: https://github.com/lborgav/cookiecutter-django
+.. _`cookiecutter-pypackage-minimal`: https://github.com/borntyping/cookiecutter-pypackage-minimal
 .. _`bootstrap.c`: https://github.com/vincentbernat/bootstrap.c
 .. _`cookiecutter-openstack`: https://github.com/openstack-dev/cookiecutter
 .. _`cookiecutter-component`: https://github.com/audreyr/cookiecutter-component
